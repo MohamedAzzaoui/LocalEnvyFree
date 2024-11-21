@@ -1,3 +1,10 @@
+"""
+Auteurs : Nassim Lattab, Mohamed Azzaoui
+M2 IAD
+
+Ce fichier contient l'implémentation de notre algorithme MinMaxEnvy que nous comparons à l'algorithme MaxNe du papier que nous avons étudié, dans le cas d'allocation sans envie locale.
+"""
+
 import copy
 import itertools
 import random
